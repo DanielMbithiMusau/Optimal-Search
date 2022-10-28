@@ -7,3 +7,4 @@ The search algorithms implemented include:
 `A-star search`
 `Depth-first search`
 
+The GUI map was implemented using openstreetmap and geocode.
